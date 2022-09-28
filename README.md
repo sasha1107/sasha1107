@@ -23,5 +23,10 @@
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>&nbsp; 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp; 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp; 
+<br>
+<br>
+<br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasha1107&layout=Demo&theme=dark)
 </div>
+
