@@ -28,6 +28,8 @@
 <br>
 
 
+<img height=165 width=350 src="https://github-readme-stats.vercel.app/api?username=sasha1107&show_icons=true&theme=dark" alt="soohyun's GitHub stats" />
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasha1107&layout=compact&theme=dark)
 </div>
 
