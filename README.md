@@ -29,7 +29,7 @@
 <br>
 
 
-<img height=165 width=380px src="https://github-readme-stats.vercel.app/api?username=sasha1107&show_icons=true&theme=dark&card_width=420" alt="soohyun's GitHub stats" />![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasha1107&exclude_repo=sasha1107.github.io,airkorea-analysis,italian_news_analysis,my-first-repository,portfolio&custom_title=정수현's%20Most%20Used%20Languages&langs_count=6&layout=compact&theme=dark&card_width=310)
+<img height=165 width=380px src="https://github-readme-stats.vercel.app/api?username=sasha1107&show_icons=true&theme=dark&card_width=420" alt="soohyun's GitHub stats" />![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasha1107&exclude_repo=sasha1107.github.io,airkorea-analysis,italian_news_analysis,my-first-repository,portfolio&custom_title=정수현's%20Most%20Used%20Languages&langs_count=6&layout=compact&theme=dark&card_width=380)
 </div>
 
 
