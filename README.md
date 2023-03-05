@@ -6,7 +6,7 @@
   
   ## RECENT POST
     
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sasha1107&color=dark)](https://github.com/sasha1107/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sasha1107&color=dark)](https://github.com/eungyeole/velog-readme-stats)
 
   
 ## 🚀 STACK 🚀
