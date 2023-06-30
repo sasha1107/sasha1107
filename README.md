@@ -10,12 +10,16 @@
  <a href="https://my-diary-4bd77.firebaseapp.com/login" target="_blank">
  <img height="24px" src="https://img.shields.io/badge/두근두근--비밀일기-%23008282?logo=data:image/png;base64,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"/>
  </a>
+
+  <a href="https://react-study-mauve.vercel.app/" target="_blank">
+ <img height="24px" src="https://img.shields.io/badge/React--dev-%23374151?logo=data:image/png;base64,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"/>
+ </a>
   
  ## RECENT POST
     
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sasha1107&color=dark)](https://velog.io/@sasha1107)
 
-  
+<!-- 
 ## 🚀 STACK 🚀
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasha1107&hide=Markdown,MDX&exclude_repo=sasha1107.github.io,airkorea-analysis,italian_news_analysis,my-first-repository,portfolio&custom_title=정수현's%20Most%20Used%20Languages&langs_count=6&layout=compact&theme=dark&card_width=380"/>
   
@@ -41,7 +45,7 @@
 
   
 
-  
+
 ## 🛠 TOOLS 🛠
 
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>&nbsp; 
@@ -51,12 +55,16 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><br></a>&nbsp; 
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>&nbsp; 
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp; 
+-->
 
 
+
+
+## STATS
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sasha1107"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasha1107&hide=Markdown,MDX&exclude_repo=sasha1107.github.io,airkorea-analysis,italian_news_analysis,my-first-repository,portfolio&custom_title=정수현's%20Most%20Used%20Languages&langs_count=6&layout=compact&theme=dark&card_width=380"/>
 </div>
-
-
-
 
 <!-- <img height=165 width=380px src="https://github-readme-stats.vercel.app/api?username=sasha1107&show_icons=true&theme=dark&card_width=420" alt="soohyun's GitHub stats" /> -->
 
