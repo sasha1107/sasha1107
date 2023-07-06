@@ -1,10 +1,10 @@
 <div align="center">
 
-<h1>
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cyclone.png" alt="Cyclone" width="40" height="40" />
+<h2>
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cyclone.png" alt="Cyclone" width="30" height="30" />
  DEPLOYING 
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Cyclone" width="40" height="40" />
-</h1>
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Cyclone" width="30" height="30" />
+</h2>
 
 <a href="https://mbti-detective.netlify.app/" target="_blank">
  <img height="24px" src="https://img.shields.io/badge/MBTI--Detective-%23000000?logo=data:image/png;base64,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"/>
@@ -18,11 +18,11 @@
  <img height="24px" src="https://img.shields.io/badge/React--dev-%23374151?logo=data:image/png;base64,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"/>
  </a>
 
-<h1>
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Black%20Nib.png" alt="Cyclone" width="40" height="40" />
+<h2>
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Black%20Nib.png" alt="Cyclone" width="30" height="30" />
  RECENT POST 
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Cyclone" width="40" height="40" />
-</h1>
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Cyclone" width="30" height="30" />
+</h2>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sasha1107&color=dark)](https://velog.io/@sasha1107)
 
@@ -53,21 +53,25 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp; 
 -->
 
-<h1>
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="40" height="40" />
+<h2>
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" />
  STATS
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="40" height="40" />
-</h1>
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="30" height="30" />
+</h2>
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sasha1107"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasha1107&hide=Markdown,MDX&exclude_repo=sasha1107.github.io,airkorea-analysis,italian_news_analysis,my-first-repository,portfolio&custom_title=정수현's%20Most%20Used%20Languages&langs_count=6&layout=compact&theme=dark&card_width=380"/>
 
 <!-- <img height=165 width=380px src="https://github-readme-stats.vercel.app/api?username=sasha1107&show_icons=true&theme=dark&card_width=420" alt="soohyun's GitHub stats" /> -->
-
-
 <details>
-    <summary><h2>STUDYING</h2></summary>
+    <summary>
+     <h2>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="30" height="30" />
+      STUDYING
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="30" height="30" />
+     </h2>
+    </summary>
     <table>
 <tr>
 <td align='center' width='120px'>
