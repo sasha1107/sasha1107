@@ -76,7 +76,7 @@
 <tr>
 
 <td align='center' width='100px'>
-    <a href="https://github.com/sasha1107/TIL/wiki/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C-JS" target="_blank">
+    <a href="https://github.com/sasha1107/TIL/wiki/Clean-Code-JavaScript" target="_blank">
         <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570946287/noticon/qgdiv5ctkcneujidjuv1.png" width="50px"/><p><code>클린코드JS</code></p>
     </a>
 </td>
@@ -86,13 +86,13 @@
     </a>
 </td>
 <td align='center' width='100px'>
-    <a href="https://github.com/sasha1107/TIL/wiki/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%BF%BC%EB%A6%AC" target="_blank">
+    <a href="https://github.com/sasha1107/TIL/wiki/React-Query" target="_blank">
         <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1631622784/noticon/zwush4y3u0mgamlck9bq.png" width="50px"/><p><code>React Query</code></p>
     </a>
 </td>
 </td>
 <td align='center' width='100px'>
-    <a href="https://github.com/sasha1107/TIL/wiki/%EC%9D%B8%ED%84%B0%EB%A0%89%ED%8B%B0%EB%B8%8C-%EC%9B%B9" target="_blank">
+    <a href="https://github.com/sasha1107/TIL/wiki/Interactive-Web" target="_blank">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="50px"/><p><code>Interactive Web</code></p>
     </a>
 </td>
