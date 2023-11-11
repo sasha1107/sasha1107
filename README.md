@@ -78,7 +78,7 @@
 
 <!-- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sasha1107"/> -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasha1107&hide=Markdown,MDX&exclude_repo=sasha1107.github.io,airkorea-analysis,italian_news_analysis,my-first-repository,portfolio&custom_title=정수현's%20Most%20Used%20Languages&langs_count=6&layout=compact&card_width=380"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasha1107&hide=MDX&exclude_repo=airkorea-analysis,italian_news_analysis,my-first-repository&custom_title=정수현's%20Most%20Used%20Languages&langs_count=6&layout=compact&card_width=380"/>
 
 <!-- <img height=165 width=350px src="https://github-readme-stats.vercel.app/api?username=sasha1107&show_icons=true&theme=dark&card_width=420" alt="soohyun's GitHub stats" /> -->
 
