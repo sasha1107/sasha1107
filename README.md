@@ -41,7 +41,7 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Cyclone" width="30" height="30" />
 </h2>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sasha1107)](https://velog.io/@sasha1107)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=sasha1107)](https://velog.io/@sasha1107)
 
 <!--
 
