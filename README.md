@@ -41,6 +41,7 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Cyclone" width="30" height="30" />
 </h2>
 
+
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=sasha1107)](https://velog.io/@sasha1107)
 
 <!--
@@ -70,6 +71,7 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp;
 -->
 
+<!--
 <h2>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" />
     STATS
@@ -77,7 +79,7 @@
 </h2>
 
 <!-- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sasha1107"/> -->
-
+<!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasha1107&hide=MDX&exclude_repo=airkorea-analysis,italian_news_analysis,my-first-repository&custom_title=정수현's%20Most%20Used%20Languages&langs_count=6&layout=compact&card_width=380"/>
 
 <!-- <img height=165 width=350px src="https://github-readme-stats.vercel.app/api?username=sasha1107&show_icons=true&theme=dark&card_width=420" alt="soohyun's GitHub stats" /> -->
